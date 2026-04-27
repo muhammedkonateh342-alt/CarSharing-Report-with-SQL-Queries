@@ -377,8 +377,5 @@ ORDER BY Avg_Demand DESC;
 
 ## Data Tables
 All tables are stored in Google Drive:
-[Google Drive Folder - CarSharing Tables](#) ← Add your Google Drive link here
+[Google Drive Folder - CarSharing Tables](https://drive.google.com/drive/folders/13VD3qiu5Sc55mhH7T8SnNBRJww1zrcKA?usp=drive_link)
 
----
-
-*Report prepared as part of SIWES Project 1 — CarSharing Analysis*
